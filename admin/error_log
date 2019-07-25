@@ -1,0 +1,152 @@
+[27-Oct-2017 03:27:37 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[27-Oct-2017 03:39:52 America/New_York] PHP Notice:  Undefined variable: num in /home/citymwwd/public_html/admin/index.php on line 81
+[27-Oct-2017 11:26:12 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Oct-2017 17:05:06 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Oct-2017 19:20:21 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Oct-2017 20:03:31 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Oct-2017 21:18:33 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Oct-2017 21:18:33 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Oct-2017 21:20:21 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Oct-2017 21:20:23 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Oct-2017 21:20:26 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Oct-2017 21:20:28 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[07-Nov-2017 10:35:56 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[28-Nov-2017 11:04:43 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 103
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 113
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 103
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 113
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 103
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 113
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 103
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 113
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 103
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 113
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 103
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 113
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 103
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 113
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 103
+[28-Nov-2017 11:05:04 America/New_York] PHP Notice:  Undefined index: status in /home/citymwwd/public_html/admin/approvereg.php on line 113
+[29-Nov-2017 08:48:47 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Nov-2017 09:42:51 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Nov-2017 09:43:09 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:43:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:43:44 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:43:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:44:04 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:44:16 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:44:37 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:44:44 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:44:52 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:47:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:47:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:47:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:47:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:48:02 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:48:10 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:48:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:48:54 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:49:01 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:56:31 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:56:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:56:41 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:56:51 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:57:01 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:57:26 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:58:35 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:58:41 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:58:46 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 09:59:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 10:02:11 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 10:02:52 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 10:07:52 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/login.php on line 25
+[29-Nov-2017 10:14:33 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Nov-2017 10:14:59 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Nov-2017 10:35:50 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/fundTable.php on line 5
+[29-Nov-2017 10:35:50 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Nov-2017 19:07:22 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Nov-2017 22:38:17 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Nov-2017 22:57:48 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Nov-2017 23:13:17 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[29-Nov-2017 23:22:08 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[30-Nov-2017 02:56:12 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[30-Nov-2017 03:12:45 America/New_York] PHP Notice:  Undefined variable: question in /home/citymwwd/public_html/admin/editFAQ.php on line 112
+[30-Nov-2017 03:12:45 America/New_York] PHP Notice:  Undefined variable: answer in /home/citymwwd/public_html/admin/editFAQ.php on line 116
+[30-Nov-2017 03:57:04 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[30-Nov-2017 04:29:52 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/fundTable.php on line 5
+[30-Nov-2017 04:29:52 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[30-Nov-2017 05:10:06 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/fundTable.php on line 5
+[30-Nov-2017 05:10:07 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[30-Nov-2017 05:24:52 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citymwwd/public_html/admin/users.php on line 92
+[30-Nov-2017 05:37:52 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/fundTable.php on line 5
+[30-Nov-2017 05:37:53 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[30-Nov-2017 10:43:06 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[30-Nov-2017 11:50:29 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[01-Dec-2017 05:56:20 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[02-Dec-2017 04:34:12 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[02-Dec-2017 07:15:34 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/users.php on line 5
+[02-Dec-2017 07:15:36 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[03-Dec-2017 06:07:04 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[06-Dec-2017 06:10:12 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[07-Dec-2017 03:22:56 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[07-Dec-2017 03:22:56 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[07-Dec-2017 04:50:29 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/branch_office.php on line 5
+[07-Dec-2017 04:50:29 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[07-Dec-2017 04:50:29 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[07-Dec-2017 04:50:29 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[17-Dec-2017 11:59:02 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[17-Dec-2017 11:59:02 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[17-Dec-2017 12:27:19 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[17-Dec-2017 12:27:19 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[17-Dec-2017 12:48:42 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[17-Dec-2017 12:48:42 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[17-Dec-2017 13:13:31 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[17-Dec-2017 13:13:31 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[17-Dec-2017 16:29:49 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[17-Dec-2017 16:29:49 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[03-Feb-2018 05:41:38 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[03-Feb-2018 05:41:38 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[10-Feb-2018 04:05:38 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[10-Feb-2018 04:05:38 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[10-Feb-2018 05:17:42 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[10-Feb-2018 05:17:42 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[11-Feb-2018 06:40:30 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[11-Feb-2018 06:40:30 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[25-Mar-2018 10:01:25 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[25-Mar-2018 10:01:25 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[25-Mar-2018 10:26:20 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[25-Mar-2018 10:27:02 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[26-Mar-2018 04:44:57 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[26-Mar-2018 04:44:57 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[26-Mar-2018 05:07:50 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[27-Mar-2018 08:54:44 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[27-Mar-2018 08:54:44 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[28-Mar-2018 05:58:05 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[28-Mar-2018 05:58:05 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[28-Mar-2018 08:01:47 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[28-Mar-2018 08:01:47 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[09-Apr-2018 04:36:46 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[09-Apr-2018 04:36:46 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[09-Apr-2018 04:39:34 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[09-Apr-2018 04:39:34 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[09-Apr-2018 04:53:53 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/regional_office.php on line 5
+[09-Apr-2018 04:53:53 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[09-Apr-2018 04:53:53 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[09-Apr-2018 04:53:53 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[30-Apr-2018 06:33:36 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[30-Apr-2018 06:33:36 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[30-Apr-2018 07:49:19 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/contactus.php on line 5
+[30-Apr-2018 07:49:19 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[30-Apr-2018 07:49:19 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[30-Apr-2018 07:49:19 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[02-May-2018 06:20:27 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[02-May-2018 06:20:27 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[02-May-2018 09:57:20 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[02-May-2018 09:57:20 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[04-May-2018 08:26:22 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/hub1_office.php on line 5
+[04-May-2018 08:26:22 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[04-May-2018 08:26:23 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[04-May-2018 08:26:23 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
+[04-May-2018 12:29:36 America/New_York] PHP Notice:  Undefined index: loggedInAdmin in /home/citymwwd/public_html/admin/index.php on line 4
+[04-May-2018 12:29:36 America/New_York] PHP Notice:  Undefined index: privilage in /home/citymwwd/public_html/admin/includes/header.php on line 100
